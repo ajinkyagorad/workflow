@@ -11,12 +11,12 @@ This is a simple Workflow App built with React, Express, and MongoDB.
 
 1. Clone the repository
     ```
-    git clone https://github.com/YourUserName/YourRepoName.git
+    https://github.com/ajinkyagorad/workflow.git
     ```
 
 2. Install dependencies
     ```
-    cd YourRepoName
+    cd workflow
     npm install
     cd client
     npm install
@@ -30,5 +30,4 @@ This is a simple Workflow App built with React, Express, and MongoDB.
 
 4. The server runs on http://localhost:5000 and the client on http://localhost:3000
 
-Enjoy!
 
