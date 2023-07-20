@@ -45,4 +45,3 @@ This is a simple Workflow App built with React, Express, and MongoDB.
 4. Convert the application to a graphical form.
     - Explore libraries or frameworks that could help with this, like D3 or Three.js.
 
-Contributions towards these enhancements would be greatly appreciated.
